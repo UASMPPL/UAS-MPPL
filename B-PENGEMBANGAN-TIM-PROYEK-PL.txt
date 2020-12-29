@@ -1,0 +1,28 @@
+Ada 3 fokus manajemen proyek perangkat lunak (PL) :
+1. People (manusia)
+2. Problem (masalah)
+3. Process (proses)
+- Manusia - mempertinggi kesiapan organisasi PL untuk mengerjakan aplikasi yang semakin
+kompleks
+- Masalah - Objektifitas dan ruang lingkupnya harus ditetapkan, pemecahan alternatifnya harus
+dipertimbangkan, teknik dan batasanpun harus didefinisikan
+- Proses - memberikan suatu kerangka kerja dimana rencana komprehensif bagi pengembangan
+perangkat lunak.
+MANAJEMEN PROYEK PERANGKAT LUNAK
+Adalah aktifitas dalam memanajemen rekayasa perangkat lunak, dimulai sebelum aktifitas teknis di
+inisialisasi dan berlanjut pada keseluruhan batasan, perkembangan dan pemeliharaan perangkat lunak komputer.
+
+PARA PEMAIN
+Manajer Senior -> Menentukan isu-isu bisnis
+Manajer (Teknik) Proyek -> Memimpin pembuatan proyek PL
+Pelaksana -> Menyampaikan ketrampilan teknik yang diperlukan untuk mengembangkan
+ Perangkat Lunak.
+Pelanggan -> Menentukan jenis kebutuhan bagi perangkat lunak.
+Pemakai Akhir -> Yang menggunakan / berinteraksi dengan PL.
+Pemimpin harus memiliki kemampuan : Motivasi, Organisasi, Inovatif
+Pilihan-pilihan yang dapat diambil untuk menerapkan sumber daya manusia kepada sebuah proyek,
+dimana n manusia.
+1. n manusia mengerjakan tugas-tugas fungsional yang berbeda sebanyak m dengan sedikit
+kombinasi kerja.
+2. m < n , dimana m tugas dan n manusia sehingga tim informal terbentuk.
+3. n orang diatur dalam t tim dimana setiap tim bertugas mengerjakan satu tugas fungsional atau lebih
