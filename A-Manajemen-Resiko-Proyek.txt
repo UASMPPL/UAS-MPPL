@@ -1,0 +1,3 @@
+Manajemen risiko pada proyek meliputi langkah memahami dan mengidentifikasi masalah potensial yang mungkin terjadi, mengevaluasi, memonitoring dan menangani risiko.
+Risiko merupakan kombinasi dari kemungkinan suatu kejadian dan akiat dari kejadian tersebut dengan tidak menutup kemungkinan bahwa ada lebih dari satu akibat yang mungkin 
+terjadi untuk satu kejadian tertentu.
