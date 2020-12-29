@@ -1,3 +1,23 @@
 Manajemen risiko pada proyek meliputi langkah memahami dan mengidentifikasi masalah potensial yang mungkin terjadi, mengevaluasi, memonitoring dan menangani risiko.
-Risiko merupakan kombinasi dari kemungkinan suatu kejadian dan akiat dari kejadian tersebut dengan tidak menutup kemungkinan bahwa ada lebih dari satu akibat yang mungkin 
-terjadi untuk satu kejadian tertentu.
+Risiko merupakan kombinasi dari kemungkinan suatu kejadian dan akiat dari kejadian tersebut dengan tidak menutup kemungkinan bahwa ada lebih dari satu akibat yang mungkin terjadi untuk satu kejadian tertentu.
+Menurut para ahli yaitu Djojo Soedarso Menurutnya manajemen risiko adalah penerapan fungsi manajemen secara umum untuk memetakan masalah dan solusinya yang terjadi di dalam sebuah organisasi perusahaan maupun keluarga dan masyarakat.
+Secara umum, tujuan manajemen risiko yang utama adalah mencegah atau meminimisasi pengaruh yang tidak baik akibat kejadian yang tidak terduga melalui penghindaran risiko atau persiapan rencana kontingensi yang berkaitan dengan risiko tersebut.  Dalam manajemen proyek risiko proyek adalah suatu peristiwa atau kondisi yang tidak pasti, dan jika terjadi mempunyai pengaruh positif atau bisa juga negatif pada tujuan proyek. Suatu risiko mempunyai sebab dan bila terjadi akan membawa dampak, oleh karena itu risiko dapat dinyatakan sebagai fungsi dari kemungkinan dan dampak.
+Proses Manajemen Risiko
+
+Proses manajemen risiko memberikan gambaran kepada kita bahwa untuk mengelola risiko ada beberapa tahapan yakni:
+
+1. Perencanaan Manajemen Risiko.
+        Perencanaan meliputi langkah memutuskan bagaimana mendekati dan merencanakan kegiatan manajemen risiko untuk sebuah proyek. Dengan mempertimbangkan lingkup proyek, rencana manajemen proyek, faktor lingkungan perusahaan, maka tim proyek dapat mendiskusikan dan menganalisis aktivitas manajemen risiko untuk proyek-proyek tertentu.
+2. Identifikasi Risiko
+        Sebagai suatu rangkaian proses, identifikasi risiko dimulai dengan memahami apa sebenarnya yang disebut sebagai risiko. Berikutnya adalah pendefinisian risiko yang mungkin mempengaruhi tingkat keberhasilan proyek dan mendokumentasikan karakteristik dari tiap-tiap risiko dengan melakukan Hasil utama dari langkah ini adalah risk register.
+3. Analisis Risiko Kualitatif
+        Analisis kualitatif salam manajemen risiko adalah proses menilai dampak dan kemungkinan risko yang sudah diidentifikasi. Proses ini dilakukan dengan menyusun risiko berdasarkan dampaknya terhadap tujuan proyek. Analisis ini merupakan cara prioritisasi risiko sehingga membentuk gambaran risiko yang harus mendapat perhatian khusus dan cara merespon risiko tersebut seandainya terjadi.
+4. Analisis Risiko Kuantitatif
+        Analisis risiko secara kuantitatif merupakan metode untuk mengidentifikasi risiko kemungkinan kegagalan sistem dan memprediksi besarnya kerugian. Analisis ini dilakukan dengan mengaplikasikan formula matematis yang dikaitkan dengan nilai finansial. Secara matematis penghitungan risiko dilajkukan dengan mengalikan tingkat kemungkinan kejadian dengan dampak yang ditimbulkan. Hasil analisis ini dapat digunakan untuk mengambil langkah strategis dalam mengatasi risiko yang teridentifikasi.
+5. Penanganan Risiko
+        Penangan risiko diartikan sebagai proses yang dilakukan untuk meminimalisasi tingkat risiko yang dihadapi sampai pada batas yang dapat diterima. Sacra kuantitatif, upaya meminimalisasi risiko dilakukan dengan menerapkan langkah-langkah yang diarahkan pada turunnya angka hasil ukur yang diperoleh dari analisis risiko. Meskipun dalam penanganan risiko dapat dilakukan dengan satu atau lebih cara yang diaplikasikan secara bersamaan atau simultan misalnya mengurangi risiko sekaligus mengalihkan risiko.
+
+METODE dasar yang saya tahu adalah : MENGHINDARI RESIKO Avoidance merupakan metode untuk mitigasi risiko dengan cara tidak berpartisipasi di kegiatan yang berpeluang besar membuat kamu cedera, sakit, atau kematian, ada salah satu contoh yang ringan adalah merokok yang memiliki peluang besar meningkatkan risiko kesehatan dan keuangan.
+
+Menurut World Health Organization (WHO), rokok menyebabkan lebih dari dua juta akibat penyakit kardiovaskular setiap tahunnya. Bahkan, setiap harinya sebanyak 1.100 orang meninggal tiap hari akibat merokok di Indonesia. Maka dari itu, pertimbangkan untuk menghindari aktivitas yang berpotensi meningkatkan resiko kesehatan kamu.
+untuk bisa berhenti merokok itu susah jika sudah kecanduan tapi bisa berhenti merokok dari kemauan individu sendiri, biasanya dengan pengalamanku sendiri rokok yang susah untuk di tahan yaitu setelah makan nah disitu yang susah untuk tidak merokok maka dari itu sediakan makanan ringan atau permen karet biar rasa ingin merokok pada mulut tidak ada itu pengalaman saya sendiri.
