@@ -1,3 +1,6 @@
+MANAJEMEN PROYEK PERANGKAT LUNAK
+Adalah aktifitas dalam memanajemen rekayasa perangkat lunak, dimulai sebelum aktifitas teknis di
+inisialisasi dan berlanjut pada keseluruhan batasan, perkembangan dan pemeliharaan perangkat lunak komputer.
 Ada 3 fokus manajemen proyek perangkat lunak (PL) :
 1. People (manusia)
 2. Problem (masalah)
@@ -8,9 +11,6 @@ kompleks
 dipertimbangkan, teknik dan batasanpun harus didefinisikan
 - Proses - memberikan suatu kerangka kerja dimana rencana komprehensif bagi pengembangan
 perangkat lunak.
-MANAJEMEN PROYEK PERANGKAT LUNAK
-Adalah aktifitas dalam memanajemen rekayasa perangkat lunak, dimulai sebelum aktifitas teknis di
-inisialisasi dan berlanjut pada keseluruhan batasan, perkembangan dan pemeliharaan perangkat lunak komputer.
 
 PARA PEMAIN
 Manajer Senior -> Menentukan isu-isu bisnis
@@ -20,9 +20,26 @@ Pelaksana -> Menyampaikan ketrampilan teknik yang diperlukan untuk mengembangkan
 Pelanggan -> Menentukan jenis kebutuhan bagi perangkat lunak.
 Pemakai Akhir -> Yang menggunakan / berinteraksi dengan PL.
 Pemimpin harus memiliki kemampuan : Motivasi, Organisasi, Inovatif
-Pilihan-pilihan yang dapat diambil untuk menerapkan sumber daya manusia kepada sebuah proyek,
-dimana n manusia.
-1. n manusia mengerjakan tugas-tugas fungsional yang berbeda sebanyak m dengan sedikit
-kombinasi kerja.
-2. m < n , dimana m tugas dan n manusia sehingga tim informal terbentuk.
-3. n orang diatur dalam t tim dimana setiap tim bertugas mengerjakan satu tugas fungsional atau lebih
+
+Struktur tim terbaik tergantung pada gaya manejemen sebuah organisasi . Ada 3 organisasi tim yang umum :
+1. Demokratis Desentralisasi
+Pemimpin tidak permanen, tugasnya pendek, koordinator berganti, keputusan dibuat oleh
+konsensus kelompok, komunikasi bersifat horisontal.
+2. Terkontrol Desentralisasi
+Pemimpin primer mengkoordinasi tugas khusus dan pemimoin sekunder bertanggung jawab atas
+sub-sub masalah. Komunikasi horisontal tapi kontrol dilakukan vertikal.
+3. Terkontrol Sentralisasi
+Koordinasi pemecahan masalah dilakukan di pimpinan puncak dan dibentuk tim internal,
+komunikasi secara vertikal.
+
+PERENCANAAN PROYEK PERANGKAT LUNAK
+Aktifitas pertama dari perencanaa proyek PL adalah estimasi,meskipun estimasi merupakan sebuah seni tetapi ada 
+beberapa teknik dalam membuat estimasi baik waktu maupun biaya. Ada beberapa komponen dalam membuat estimasi :
+1. Project Complexity
+Akan berpengaruh terhadap ketidak pastian yang dalam perencanaan, walaupun kompleksitas 
+merupakan pengukuran relatif bagi setiap pengembang.
+2. Project Size
+Bila ukuran bertambah maka ketergantungan diantara elemen PL akan meningkat dengan cepat. 
+3. Structural Uncertainty
+Akan berpengaruh pada resiko estimasi. Bila proyek masa lalu dapat dikerjakan secara komprehensif dan 
+terdokumentasi dengan rapi maka estimasi dapat dilakukan dengan kepastian yang lebih tinggi.
