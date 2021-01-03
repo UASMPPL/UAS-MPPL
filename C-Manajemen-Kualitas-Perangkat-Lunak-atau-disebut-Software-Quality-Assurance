@@ -1,0 +1,96 @@
+Manajemen Kualitas Perangkat Lunak atau disebut Software Quality Assurance
+
+Software Quality Assurance
+Software quality assurance adalah kegiatan penting dalam sebuah perangkat lunak yang diterapkan pada setiap langkah dalam proses perangkat lunak. 
+SQA mencakup prosedur untuk penerapan metode dan alat yang efektif, pengawasan kegiatan pengendalian kualitas seperti tinjauan teknis dan pengujian perangkat lunak, 
+prosedur untuk manajemen perubahan, prosedur untuk memastikan kepatuhan terhadap standar, dan mekanisme pengukuran dan pelaporan. 
+Software quality assurance berkaitan dengan memastikan bahwa perangkat lunak memiliki jumlah cacat yang kecil dan mencapai standar yang diperlukan untuk 
+pemeliharaan, keandalan, portabilitas, dan sebagainya.
+
+Elemen-elemen Software Quality Assurance
+Software quality assurance mencakup berbagai masalah dan aktivitas yang berfokus pada pengelolaan kualitas perangkat lunak.
+
+Standards (Standar)
+Standar perangkat lunak memainkan peran yang sangat penting dalam software quality management. 
+Sebagai bagian dari proses QA ini, alat dan metode untuk mendukung penggunaan standar ini juga dapat dipilih. 
+Tugas SQA adalah untuk memastikan bahwa standar yang telah diimplementasikan diikuti dan bahwa semua produk kerja sesuai dengan mereka.
+
+Reviews and audits (Ulasan dan audit)
+Technical reiviews adalah kegiatan kontrol kualitas yang dilakukan oleh software engineers untuk software engineers. 
+Review harus memeriksa konsistensi dan kelengkapan dokumen atau kode yang direview dan memastikan bahwa standar kualitas telah diikuti. 
+Namun, ulasan tidak hanya memeriksa kesesuaian dengan standar, melainkan juga digunakan untuk membantu menemukan masalah dan kelalaian dalam perangkat lunak atau dokumentasi proyek. Audit adalah jenis tinjauan yang dilakukan oleh personel SQA dengan maksud untuk memastikan bahwa pedoman kualitas diikuti untuk pekerjaan rekayasa perangkat lunak.
+
+Testing (Pengujian)
+Software testing adalah fungsi kontrol kualitas yang memiliki satu tujuan utama, yaitu untuk menemukan kesalahan. 
+Tugas SQA adalah memastikan bahwa pengujian direncanakan dengan baik dan dilakukan secara efisien sehingga memiliki kemungkinan tertinggi untuk mencapai tujuan utamanya.
+
+Error/defect collection and analysis (Pengumpulan dan analisis kesalahan / cacat)
+SQA mengumpulkan dan menganalisis data kesalahan dan cacat untuk lebih memahami bagaimana kesalahan diperkenalkan dan kegiatan rekayasa perangkat lunak apa yang paling cocok untuk menghilangkannya.
+
+Change management (Pengubahan manajemen)
+Perubahan adalah salah satu aspek yang paling mengganggu dari setiap proyek perangkat lunak. 
+Jika tidak dikelola dengan baik, perubahan dapat menyebabkan kebingungan, dan kebingungan hampir selalu mengarah pada kualitas yang buruk. 
+SQA memastikan bahwa praktik manajemen perubahan yang memadai telah dibentuk.
+
+Education (Edukasi)
+Setiap software organization ingin meningkatkan software engineering practices. 
+Kontributor utama dalam peningkatan adalah pendidikan software engineers, manajer mereka, dan stakeholder lainnya. 
+Organisasi SQA memimpin dalam peningkatan proses perangkat lunak dan merupakan pendukung dan sponsor utama program pendidikan.
+
+Vendor management (Manajemen vendor)
+Tugas organisasi SQA adalah untuk memastikan bahwa perangkat lunak yang dihasilkan berkualitas tinggi dengan menyarankan praktik kualitas khusus yang harus diikuti oleh vendor (bila mungkin), dan memasukkan mandat kualitas sebagai bagian dari kontrak apa pun dengan vendor eksternal.
+
+Security management (Manajemen keamanan)
+Dengan meningkatnya cybercrime dan peraturan pemerintah baru tentang privasi, setiap organisasi perangkat lunak harus melembagakan kebijakan yang melindungi data di semua tingkatan, membangun perlindungan firewall untuk WebApps, dan memastikan bahwa perangkat lunak belum dirusak secara internal. SQA memastikan bahwa proses dan teknologi yang tepat digunakan untuk mencapai software security yang aman.
+
+Safety (Keamanan)
+SQA mungkin bertanggung jawab untuk menilai dampak kegagalan perangkat lunak untuk memulai langkah-langkah yang diperlukan untuk mengurangi risiko.
+
+Risk management (Manajemen risiko)
+Meskipun analisis dan mitigasi risiko menjadi perhatian para software engineers, organisasi SQA memastikan bahwa kegiatan manajemen risiko dilakukan dengan benar dan bahwa rencana kontinjensi terkait risiko telah ditetapkan.
+
+
+Tugas SQA
+Software quality assurance terdiri dari beragam tugas yang terkait dengan dua daerah berbeda. 
+Insinyur perangkat lunak yang mengerjakan pekerjaan teknis dan kelompok SQA yang memiliki tanggung jawab untuk 
+perencanaan, pengawasan, penyimpanan catatan, analisi, dan pelaporan penjaminan mutu. Insinyur software menangani kualitas (dan melakukan aktivitas untuk mengontrolnya) 
+dengan menerapkan metode dan tindakan teknis yang kuat, melakukan tinjauan teknis, dan melakukan pengujian software yang terencana dengan baik
+Mempersiapkan rencana SQA untuk proyek
+
+Rencana tersebut mengidentifikasi evaluasi yang akan dilakukan, audit dan tinjauan yang akan dilakukan, standar yang berlaku untuk proyek, prosedur pelaporan kesalahan dan pelacakan, produk kerja yang dihasilkan oleh kelompok SQA, dan feedback yang akan diberikan kepada tim software
+– Berpartisipasi dalam pengembangan deskripsi proses proyek software Tim software memilih proses untuk pekerjaan yang akan dilakukan. Grup SQA meninjau deskripsi proses untuk agar sesuai dengan kebijakan organisasi, standar internal software, standar yang diberlakukan secara eksternal (mis., ISO-9001), dan bagian lain dari rencana proyek software.
+
+– Meninjau aktivitas software engineering untuk memverifikasi kesesuaian dengan proses perangkat lunak yang ditentukanGrup SQA mengidentifikasi, mendokumentasikan, dan melacak penyimpangan dari proses dan memverifikasi bahwa koreksi telah dilakukan.
+
+– Audit software produk kerja yang ditunjuk untuk memverifikasi kepatuhan dengan yang ditetapkan sebagai bagian dari proses softwareGrup SQA meninjau produk kerja yang dipilih; mengidentifikasi, mendokumentasikan, dan melacak penyimpangan; memverifikasi bahwa koreksi telah dilakukan; dan secara berkala melaporkan hasil pekerjaannya kepada manajer proyek.
+
+– Memastikan bahwa penyimpangan dalam pekerjaan perangkat lunak dan produk kerja didokumentasikan dan ditangani sesuai dengan prosedur yang didokumentasikanPenyimpangan dapat ditemui dalam rencana proyek, deskripsi proses, standar yang berlaku, atau produk kerja software engineering.
+
+– Merekam setiap ketidaksesuaian dan melaporkan kepada manajemen seniorItem yang tidak sesuai dilacak sampai diselesaikan.
+
+Tujuan, Atribut, dan Metrik dari SQA
+Tindakan-tindakan SQA yang dijelaskan di bagian sebelumnya dilakukan untuk mencapai serangkaian tujuan pragmatis:
+
+Persyaratan kualitas
+SQA harus memastikan bahwa tim dari software telah meninjau model persyaratan dengan teliti untuk mendapatkan kualitas yang tinggi.
+
+Kualitas desain
+Setiap elemen dari model desain harus dinilai oleh tim software untuk memastikan bahwa model tersebut menunjukan kualitas yang tinggi dan bahwa desain itu sendiri memenuhi persyaratan yang ada. SQA mencari atribut desain yang merupakan indicator dari kualitas.
+
+Kualitas kode
+Source code dan produk kerja yang berkaitan (misalkan, informasi deskriptif lainnya) harus sesuai dengan standar pengkodean local dan menunjukkan karakteristik yang akan memudahkan pemeliharaan software. SQA harus mengisolasikan atribut-atribut yang memungkinkan analisis kualitas yang wajar dari kode.
+
+
+Efektivitas kontrol kualitas
+SQA menganalisis alokasi sumber daya untuk ulasan dan pengujian untuk menilai apakah sumber daya dialokasikan dengan cara yang paling efektif atau tidak.
+
+Statistik Software Quality Assurance
+Statistik dari SQA membantu untuk meningkatkan kualitas dari produk dan proses software itu sendiri. Model keandalan software memperluas pengukuran, memungkinkan data cacat yang telah dikumpulkan untuk diekstrapolasi ke dalam proyeksi tingkat kegagalan dan prediksi keandalan software.
+
+Keandalan Software
+Keandalan dari suatu program komputer merupakan sebuah elemen yang penting dari kualitas keseluruhannya. 
+Jika sebuah program terus-menerus dan sering gagal dalam menjalankan tugasnya, faktor-faktor kualitas software lainnya tidaklah terlalu penting. 
+Keandalan software, tidak seperti faktor kualitas lainnya, dapat diukur secara langsung dan diperkirakan dengan menggunakan data histori dan data perkembangan dari software. Keandalan software adalah probabilitas software dapat beroperasi tanpa adanya kegagalan dalam jangka waktu tertentu, dan dalam environment yang spesifik. Keandalan software juga merupakan faktor penting yang mempengaruhi keandalan dari system.
+
+Keamanan Software
+Keamanan software adalah aktivitas SQA yang memfokuskan pada identifikasi dan penilaian dari potensi bahaya yang dapat memberikan dampak buruk bagi software dan membuat seluruh system fail/gagal. Jika suatu bahaya dapat diidentifikasi di awal, fitur design software dapat dispesifikasikan untuk menghilangkan atau mengontrol potensi bahaya tersebut.
