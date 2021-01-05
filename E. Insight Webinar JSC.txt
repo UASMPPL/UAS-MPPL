@@ -1,0 +1,24 @@
+A. Aplikasi Jaki
+	Jaki merupakan aplikasi besutan Jakarta Smart City, unit pengelola di bawah Dinas Komunikasi, Informatika, dan Statistik Pemprov DKI Jakarta. Aplikasi ini dibuat semata-mata untuk membantu kamu dalam menemukan kebutuhan sehari-hari di Jakarta.
+	Disrupsi teknologi yang semakin hari semakin kuat membuat Pemprov DKI Jakarta harus membuka pintu lebih lebar terhadap teknologi. Sebagian besar Organisasi Perangkat Daerah (OPD) yang ada di bawah naungan Pemprov DKI Jakarta pun sudah mulai mengembangkan aplikasi mereka sendiri, baik yang digunakan untuk meningkatkan kinerja maupun meningkatkan pelayanan masyarakat. Sehingga masyarakat Jakarta punya aplikasi khusus untuk tiap pelayanan yang mereka inginkan. Namun, untuk lebih memudahkanmu mengakses semua pelayanan, maka Jakarta Smart City mengembangkan JAKI untuk mengintegrasikan semua layanan dalam satu aplikasi.
+	Jaki memberikan beragam fitur-fitur berguna yang diharapkan dapat membuat hidup banyak orang jadi lebih mudah. Fitur-fitur tersebut adalah : 
+	- JakWarta, menyajikan berita resmi langsung dari Organisasi Perangkat Daerah (OPD) dan Badan Usaha Milik Daerah (BUMD). 
+	- JakISPU, menyajikan Indeks Standar Pencemaran Udara (ISPU) dan terintegrasi dengan sensor udara milik Dinas Lingkungan Hidup Jakarta secara real-time.
+	- JakSurvei, menyediakan ruang evaluasi bagi warga yang ingin menilai kinerja layanan masyarakat dan ikut berpartisipasi dalam survei mengenai kebijakan, fasilitas, atau jajak pendapat resmi. 
+	- JakSiaga, menyediakan nomor-nomor penting saat situasi genting seperti Jakarta Siaga 112, tim SAR, pemadam kebakaran, dan lainnya. 
+	- JakLapor, menyediakan layanan untuk menyampaikan permasalahan yang mereka temui di Jakarta melalui JAKI juga dapat memantau setiap laporan.
+	- JakPantau, menyediakan informasi mengenai ketinggian muka air, status siaga, status pompa air, dan area terdampak banjir di Jakarta.
+	- JakRespons, menyediakan semua laporan di JAKI serta tingkat kepuasan terhadap hasil tindak lanjut laporan. Pengguna aplikasi juga bisa memberikan penilaian untuk laporan yang kamu buat di JAKI. 
+	- JakPangan, menyediakan harga komoditas pangan di Jakarta hari ini dan temukan lokasi Pasar Jaya terdekat. Informasi dalam JakPangan terintegrasi dengan aplikasi Info Pangan Jakarta dari PD Pasar Jaya yang diperbarui tiap pukul 10 pagi setiap hari.
+	- JakApps, menyediakan pelayanan publik besutan Pemprov DKI Jakarta dan nikmati pelayanannya secara daring.
+	- JakCo, menyediakan pintasan menuju aplikasi milik perusahaan teknologi yang berkolaborasi dengan Pemprov DKI Jakarta.
+
+B. Tim yang terlibat dalam Jakarta Smart City
+	Secara umum terdapat beberapa tim yang berperan dalam berjalannya Jakarta Smart City, yaitu:
+	- Tim Administrator, yang berperan menerima informasi/laporan dari masyarakat untuk diproses dibagian berikutnya.
+	- Tim Validator, yang berperan membuktikan bahwa informasi/laporan yang telah diterima itu bukan penipuan.
+	- Tim Lapangan, yang berperan melakukan permintaan dari laporan masyarakat tersebut.
+
+C. Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyarakat maupun pemerintah?
+	Untuk memastikan perangkat lunak akan digunakan oleh masyarakat atau pemerintah adalah dengan memberikan sosialisasi kepada masyarakat dan memperlihatkan pengoperasian dari aplikasi tersebut dengan sebaik-baiknya.
+	
