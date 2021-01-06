@@ -21,6 +21,22 @@ Pelanggan -> Menentukan jenis kebutuhan bagi perangkat lunak.
 Pemakai Akhir -> Yang menggunakan / berinteraksi dengan PL.
 Pemimpin harus memiliki kemampuan : Motivasi, Organisasi, Inovatif
 
+Anggota Tim Proyek
+1. Contract Administrator
+Seorang contract administrator bertugas dalam melakukan penyiapan proposal, negosiasi kontrak, mengintegrasikan keperluan dalam kontrak dengan rencana proyek, melakukan identifikasi perubahan yang terjadi dalam lingkup proyek, mengkomunikasikan penyelesaian tahap-tahap penting, dokumentasi masalah hukum dan melakukan modifikasi kontrak.
+2. Project Contoller
+Project controller bertugas membantu manajer proyek dalam perencanaan, pengendalian, pelaporan dan evaluasi. Seorang project controller juga berperan sebagai orang yang mendefinisikan job dan hubungan pekerjaan serta menentukan posisi sumber daya manusia.
+3. Project Acountant
+Tugas dari project accountant adalah melakukan persiapan estimasi biaya dan mengidentifikasi masalah finansial.
+4. Customer Liaison
+Seorang customer liaison berperan sebagai perwakilan teknis klien, membantu dalam pembahasan teknis dan mereview progres proyek, membantu dalam pengubahan kontrak dan bertanggung jawab atas hubungan antara kontaktor-klien.
+5. Production Coordinator
+Production coordinator bertugas merencanakan, menjadwalkan, memonitor, mengestimasi biaya, dan mengkoordinasikan aspek-aspek produksi.
+6. Manajer Lapangan
+Seorang manjer lapangan bertugas dalam mengawasi pemasangan, pengujian, pemeliharaan dan penyerahan hasil akhir proyek pada pelanggan.
+7. Quality Assurance Supervisor
+Membuat dan mengatur prosedur pemeriksaan untuk memastikan kualitas dapat memenuhi kebutuhan.
+
 Struktur tim terbaik tergantung pada gaya manejemen sebuah organisasi . Ada 3 organisasi tim yang umum :
 1. Demokratis Desentralisasi
 Pemimpin tidak permanen, tugasnya pendek, koordinator berganti, keputusan dibuat oleh
@@ -33,7 +49,7 @@ Koordinasi pemecahan masalah dilakukan di pimpinan puncak dan dibentuk tim inter
 komunikasi secara vertikal.
 
 PERENCANAAN PROYEK PERANGKAT LUNAK
-Aktifitas pertama dari perencanaa proyek PL adalah estimasi,meskipun estimasi merupakan sebuah seni tetapi ada 
+Aktifitas pertama dari perencanaa proyek PL adalah estimasi, meskipun estimasi merupakan sebuah seni tetapi ada 
 beberapa teknik dalam membuat estimasi baik waktu maupun biaya. Ada beberapa komponen dalam membuat estimasi :
 1. Project Complexity
 Akan berpengaruh terhadap ketidak pastian yang dalam perencanaan, walaupun kompleksitas 
